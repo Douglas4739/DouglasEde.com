@@ -10,3 +10,11 @@ nav{
   background: rgb(14, 167, 14);
   color:black;
 }
+
+.nav-links{
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+  align-items: right;
+  list-style: none;
+}
