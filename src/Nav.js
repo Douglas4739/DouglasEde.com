@@ -5,7 +5,7 @@ function Nav() {
   return (
     <nav>
       <h3>Logo goes here</h3>
-      <ul>
+      <ul className="nav-links">
           <li>Douglas Ede</li>
           <li>Coaching</li>
           <li>Programing</li>
