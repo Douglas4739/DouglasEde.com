@@ -5,12 +5,12 @@ import { Link } from 'react-router-dom';
 function Nav() {
   return (
     <nav>
-      <h3>Logo goes here</h3>
-      <ul className="nav-links">
-          <Link to='/About'><li>Douglas Ede</li></Link>
-          <Link to='/Coaching'><li>Coaching</li></Link>
-          <Link to='/Programing'><li>Programing</li></Link>
-          <Link to='/Home'><li>Home</li></Link>
+      <h3 className='nav-logo'>Logo goes here</h3>
+      <ul className='nav-links'>
+          <Link to='/About'><li className='nav-list'>Douglas Ede</li></Link>
+          <Link to='/Coaching'><li className='nav-list'>Coaching</li></Link>
+          <Link to='/Programing'><li className='nav-list'>Programing</li></Link>
+          <Link to='/Home'><li className='nav-list'>Home</li></Link>
           
           
       </ul>  
