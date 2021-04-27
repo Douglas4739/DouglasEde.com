@@ -10,7 +10,7 @@ function Home() {
           src="mountainman.jpg"
           height="285"
           width="245"
-          alt="Jonathan Profile"
+          alt="Douglas Ede"
         />
       </div>
       <div>
