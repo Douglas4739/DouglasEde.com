@@ -4,61 +4,62 @@ import './Home.css';
 
 function Home() {
   return (
-<div>
+    <div>
       <div>
-        <img src='logo192.png' height="285" width="245" alt="Jonathan Profile" />
+        <img
+          src="mountainman.jpg"
+          height="285"
+          width="245"
+          alt="Jonathan Profile"
+        />
       </div>
       <div>
         <section>
-          <h2>Stock Market Investor/Software Engineer{" "}</h2>
+          <h2>Investor/Software Engineer </h2>
         </section>
         <br />
         <section>
-          Hi, welcome to my profile webpage. I am an electrical engineer with
-          strong software development skills. I am looking into a new role as a
-          Software Engineer. I am passioned about technology and would like to
-          obtain an opportunity as a Software Developer with a great company
-          that promotes team work, and professional growth. I use my free time
-          to develop websites or learn new programming skills. If you would line
-          to know more about my professional expirience and technical skills,
-          please take a look at my{" "}
+          Hi, welcome to my website. I am a veteran stock market investor that
+          has branched out into the world of software engineering. I have a real
+          passion for education about investing and would like to work with
+          anyone that wants to learn the world of securities trading. I use my
+          free time to develop websites, study market charts, and read (132
+          books and counting!) If you would like to know more about my
+          professional expirience and technical skills, please take a look at my
+          <a href='https://www.linkedin.com/in/douglasede-webdev'> LinkedIn.</a>
         </section>
-          <section
-            
-            target="_blank"
-            rel="noopener noreferrer"
-            underline="always"
-            color="inherit"
-          >
-            Resume
-          </section>
-          . To get in contact wit me you can use{" "}
-          <section
-            href="https://www.linkedin.com/in/jonathan-m-martinez"
-            target="_blank"
-            rel="noopener noreferrer"
-            underline="always"
-            color="inherit"
-          >
-            LinkedIn{" "}
-          </section>
-          or send me an{" "}
-          <section
-            // component="a"
-            href={`mailto:${"jmmartinez331@gmail.com"}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            underline="always"
-            color="inherit"
-          >
-            Email
-          </section>
-          . I also have a{" "}
-
-          
-
-        </div>
-</div>
+        <section
+          target="_blank"
+          rel="noopener noreferrer"
+          underline="always"
+          color="inherit"
+        >
+          Resume
+        </section>
+        . To get in contact wit me you can use{" "}
+        <section
+          href="https://www.linkedin.com/in/jonathan-m-martinez"
+          target="_blank"
+          rel="noopener noreferrer"
+          underline="always"
+          color="inherit"
+        >
+          LinkedIn{" "}
+        </section>
+        or send me an{" "}
+        <section
+          // component="a"
+          href={`mailto:${"jmmartinez331@gmail.com"}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          underline="always"
+          color="inherit"
+        >
+          Email
+        </section>
+        . I also have a{" "}
+      </div>
+    </div>
   );
 }
 
