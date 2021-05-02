@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-
+  background-color: rgb(213, 248, 213);
 }
 
 nav{
@@ -26,4 +26,21 @@ nav{
 
 .nav-logo{
   padding: 10px;
+}
+
+.about{
+  display: flex;
+  background-color: green;
+  margin: 5%;
+}
+.aboutText{
+  padding: 2%;
+  border:rgb(47, 49, 54);
+  text-align: center;
+}
+
+.profileImage{
+  padding: 25px;
+  margin: 5%;
+  margin-left: 5%;
 }

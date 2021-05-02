@@ -3,21 +3,19 @@ import './App.css';
 
 function About() {
   return (
-<div>
-      <div>
+<div className='about'>
+      <div className='profileImage'>
         <img
           src="mountainman.jpg"
           height="285"
           width="245"
           alt="Douglas Ede"
         />
+        <h2>Investor/Software Engineer </h2>
       </div>
       <div>
-        <section>
-          <h2>Investor/Software Engineer </h2>
-        </section>
         <br />
-        <section>
+        <section className='aboutText'>
           Hi, welcome to my website. I am a veteran stock market investor that
           has branched out into the world of software engineering. I have a real
           passion for education about investing and would like to work with
@@ -45,9 +43,9 @@ function About() {
         >
           LinkedIn{" "}
         </section>
-        or send me an{" "}
+        or send me an{"Email"}
         <section
-          // component="a"
+           component="a"
           href={`mailto:${"jmmartinez331@gmail.com"}`}
           target="_blank"
           rel="noopener noreferrer"
