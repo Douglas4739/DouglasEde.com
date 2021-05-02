@@ -25,12 +25,7 @@ function About() {
           professional expirience and technical skills, please take a look at my
           <a href='https://www.linkedin.com/in/douglasede-webdev'> LinkedIn.</a>
         </section>
-        <section
-          target="_blank"
-          rel="noopener noreferrer"
-          underline="always"
-          color="inherit"
-        >
+        <section className='resume'>
           Resume
         </section>
         . To get in contact wit me you can use{" "}
