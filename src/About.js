@@ -37,7 +37,7 @@ function About() {
             src="iconfinder_google-gmail_7089163.png"
             height="100"
             width="100"
-            alt="Douglas Ede"
+            alt="Email"
           />
         </a>
         <a href="https://www.instagram.com/doug_dynasty4739/">
@@ -45,7 +45,7 @@ function About() {
             src="iconfinder_1_Instagram_colored_svg_1_5296765 (1).png"
             height="100"
             width="100"
-            alt="Douglas Ede"
+            alt="Instagram"
           />
         </a>
         <a href="https://discord.com/channels/773219768899207188/773219768899207191">
@@ -53,7 +53,7 @@ function About() {
             src="iconfinder_91_Discord_logo_logos_4373196.png"
             height="100"
             width="100"
-            alt="Douglas Ede"
+            alt="DIscord"
           />
         </a>
         <a href="https://github.com/Douglas4739">
@@ -61,7 +61,7 @@ function About() {
             src="iconfinder_github-square-social-media_764894.png"
             height="100"
             width="100"
-            alt="Douglas Ede"
+            alt="GitHub"
           />
         </a>
         <a href="https://gitlab.com/Douglas4739">
@@ -69,7 +69,7 @@ function About() {
             src="iconfinder_144_Gitlab_logo_logos_4373151.png"
             height="100"
             width="100"
-            alt="Douglas Ede"
+            alt="GitLab"
           />
         </a>
         <a href="https://www.linkedin.com/in/douglasede-webdev/">
@@ -77,10 +77,9 @@ function About() {
             src="iconfinder_1_Linkedin_unofficial_colored_svg_5296501 (1).png"
             height="100"
             width="100"
-            alt="Douglas Ede"
+            alt="LinkedIn"
           />
         </a>
-        <section></section>
       </div>
     </div>
   );
