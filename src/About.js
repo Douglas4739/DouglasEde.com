@@ -15,9 +15,9 @@ function About() {
           has branched out into the world of software engineering. I have a real
           passion for education about investing and would like to work with
           anyone that wants to learn the world of securities trading. I use my
-          free time to develop websites, study market charts, and read (132
-          books and counting!) If you would like to know more about my
-          professional expirience and technical skills, please take a look at my
+          free time to develop websites, study market charts, and read.
+          If you would like to know more about my professional expirience
+           and technical skills, please take a look at my
           <a href="https://www.linkedin.com/in/douglasede-webdev"> LinkedIn.</a>
         </section>
         <section className="resume">

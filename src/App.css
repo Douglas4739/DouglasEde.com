@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: rgb(213, 248, 213);
+  background-color: rgb(208,209,211);
 }
 
 nav{
@@ -9,7 +9,7 @@ nav{
   justify-content: space-around;
   align-items: center;
   min-height: 10vh;
-  background: rgb(14, 167, 14);
+  background: rgb(33, 206, 153);
   color: rgb(47, 49, 54);
 }
 
@@ -32,12 +32,12 @@ nav{
 .about{
   border-radius: 25px;
   display: flex;
-  background-color: rgb(14, 167, 14);
+  background-color: rgb(33, 206, 153);
   margin: 5%;
 }
 .aboutText{
   border-radius: 25px;
-  background-color: rgb(213, 248, 213);
+  background-color: rgb(255,255,255);
   margin: 2%;
   padding: 2%;
   border:rgb(47, 49, 54);
@@ -48,14 +48,14 @@ nav{
   border-radius: 25px;
   padding: 25px;
   margin: 5%;
-  background-color: rgb(213, 248, 213);
+  background-color: rgb(255,255,255);
 }
 
 .resume{
   border-radius: 25px;
   padding: 25px;
   margin: 5%;
-  background-color: rgb(213, 248, 213);
+  background-color: rgb(255,255,255);
 }
 
 @media all and (min-width: 800px) {
