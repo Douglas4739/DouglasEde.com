@@ -26,30 +26,15 @@ function About() {
           <a href='https://www.linkedin.com/in/douglasede-webdev'> LinkedIn.</a>
         </section>
         <section className='resume'>
-          Resume
+          <a href='https://docs.google.com/document/d/1mahwZMrSbL89ux1Ix986jgIE4pIl_imuUB1sXCt4i2I/edit?usp=sharing'>Resume</a> 
         </section>
-        . To get in contact wit me you can use{" "}
-        <section
-          href="https://www.linkedin.com/in/jonathan-m-martinez"
-          target="_blank"
-          rel="noopener noreferrer"
-          underline="always"
-          color="inherit"
-        >
-          LinkedIn{" "}
+         To get in contact wit me you can use my <a href = 'mailto: briancarter340@gmail.com'>Email</a>
+            {/*
+            Here I need to add styled links to LinkedIn, InstaGram, GitHub, GitLab, and Discord.
+            */}
+        <section>
         </section>
-        or send me an{"Email"}
-        <section
-           component="a"
-          href={`mailto:${"jmmartinez331@gmail.com"}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          underline="always"
-          color="inherit"
-        >
-          Email
-        </section>
-        . I also have a{" "}
+
       </div>
     </div>
   );
