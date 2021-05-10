@@ -21,6 +21,7 @@ function About() {
           <a href="https://www.linkedin.com/in/douglasede-webdev"> LinkedIn.</a>
         </section>
         <section className="resume">
+          <h1>Resume</h1>
           <a href="https://docs.google.com/document/d/1mahwZMrSbL89ux1Ix986jgIE4pIl_imuUB1sXCt4i2I/edit?usp=sharing">
             <img
               src="iconfinder_portfolio-business_and_finance-personal_profile-resume-interface_4288584.png"
@@ -29,9 +30,8 @@ function About() {
               alt="Resume"
             />
           </a>
-          Proficient in JavaScript, HTML, and CSS. I have 5 years of experience as a salvage auto inspector, which gave me a keen eye for attention to detail along with making me comfortable with long hours and hard work. I also have a strong interest in Ecommerce, having launched a small but successful business in the field.
+          <p>Proficient in JavaScript, HTML, and CSS. I have 5 years of experience as a salvage auto inspector, which gave me a keen eye for attention to detail along with making me comfortable with long hours and hard work. I also have a strong interest in Ecommerce, having launched a small but successful business in the field.</p>
         </section>
-        To get in contact wit me you can use my{" "}
         <a href="mailto: briancarter340@gmail.com">
           <img
             src="iconfinder_google-gmail_7089163.png"
@@ -40,11 +40,6 @@ function About() {
             alt="Douglas Ede"
           />
         </a>
-        {/*
-            Here I need to add styled links to LinkedIn, InstaGram, GitHub, GitLab, and Discord.
-              https://docs.google.com/document/d/1mahwZMrSbL89ux1Ix986jgIE4pIl_imuUB1sXCt4i2I/edit?usp=sharing
-              2021-05-09 (3).png
-            */}
         <a href="https://www.instagram.com/doug_dynasty4739/">
           <img
             src="iconfinder_1_Instagram_colored_svg_1_5296765 (1).png"
