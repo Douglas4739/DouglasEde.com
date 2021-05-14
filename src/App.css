@@ -59,6 +59,13 @@ nav{
   background-color: rgb(255,255,255);
 }
 
+.footer{
+  justify-content: center;
+  flex-direction: row;
+  background-color: rgb(47, 49, 54) ;
+
+}
+
 @media all and (min-width: 800px) {
   .App {
     flex-direction: row;
