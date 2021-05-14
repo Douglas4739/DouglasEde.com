@@ -1,11 +1,9 @@
-import React from 'react';
-import './App.css';
-import './Home.css';
+import React from "react";
+import "./App.css";
+import "./Home.css";
 
 function Home() {
-  return (
-    <h1>Home Page</h1>
-  );
+  return <h1>Home Page</h1>;
 }
 
 export default Home;
