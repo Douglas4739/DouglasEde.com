@@ -35,6 +35,7 @@ nav {
   display: flex;
   background-color: rgb(33, 206, 153);
   margin: 5%;
+  margin-bottom: 0%;
 }
 .aboutText {
   border-radius: 25px;
@@ -66,6 +67,7 @@ nav {
 }
 
 .row {
+  color: rgb(191, 190, 177);
   display: flex;
   justify-content: center;
   flex-direction: row;
