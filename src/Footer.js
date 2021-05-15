@@ -6,8 +6,26 @@ function Footer() {
     <div className="footer">
       <div className="container">
         <div className="row">
-          <div className="col">
-            <h1>Footer</h1>
+          <div className="col1">
+            <ul>
+              <li>item 1</li>
+              <li>Item2</li>
+              <li>Item 3</li>
+            </ul>
+          </div>
+          <div className='col2'>
+          <ul>
+              <li>item 1</li>
+              <li>Item2</li>
+              <li>Item 3</li>
+            </ul>
+          </div>
+          <div className='col3'>
+          <ul>
+              <li>item 1</li>
+              <li>Item2</li>
+              <li>Item 3</li>
+            </ul>
           </div>
         </div>
       </div>

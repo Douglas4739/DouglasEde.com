@@ -1,10 +1,10 @@
 .App {
   text-align: center;
-  background-color: rgb(208,209,211);
-  background-image: 'BW2.jpg';
+  background-color: rgb(208, 209, 211);
+  background-image: "BW2.jpg";
 }
 
-nav{
+nav {
   border-radius: 0px 0px 25px 25px;
   display: flex;
   justify-content: space-around;
@@ -14,7 +14,7 @@ nav{
   color: rgb(47, 49, 54);
 }
 
-.nav-links{
+.nav-links {
   width: 25%;
   display: flex;
   justify-content: space-around;
@@ -22,52 +22,69 @@ nav{
   list-style: none;
 }
 
-.nav-list{
+.nav-list {
   padding: 10px;
 }
 
-.nav-logo{
+.nav-logo {
   padding: 10px;
 }
 
-.about{
+.about {
   border-radius: 25px;
   display: flex;
   background-color: rgb(33, 206, 153);
   margin: 5%;
 }
-.aboutText{
+.aboutText {
   border-radius: 25px;
-  background-color: rgb(255,255,255);
+  background-color: rgb(255, 255, 255);
   margin: 2%;
   padding: 2%;
-  border:rgb(47, 49, 54);
+  border: rgb(47, 49, 54);
   text-align: center;
 }
 
-.profileImage{
+.profileImage {
   border-radius: 25px;
   padding: 25px;
   margin: 5%;
-  background-color: rgb(255,255,255);
+  background-color: rgb(255, 255, 255);
 }
 
-.resume{
+.resume {
   border-radius: 25px;
   padding: 25px;
   margin: 5%;
-  background-color: rgb(255,255,255);
+  background-color: rgb(255, 255, 255);
 }
 
-.footer{
+.footer {
   justify-content: center;
   flex-direction: row;
-  background-color: rgb(47, 49, 54) ;
+  background-color: rgb(47, 49, 54);
+}
 
+.row {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.col1 {
+  margin: auto;
+}
+
+.col2 {
+  margin: auto;
+}
+
+.col3 {
+  margin: auto;
 }
 
 @media all and (min-width: 800px) {
   .App {
-    flex-direction: row;
+
   }
 }
