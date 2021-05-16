@@ -54,7 +54,7 @@ function About() {
             alt="Instagram"
           />
         </a>
-        <a href="https://discord.com/channels/773219768899207188/773219768899207191">
+        <a href="https://discord.com/channels/818180464711041035/818180464711041038">
           <img
             src="iconfinder_91_Discord_logo_logos_4373196.png"
             height="100"
