@@ -5,7 +5,7 @@
 }
 
 nav {
-  border-radius: 0px 0px 25px 25px;
+  border-radius: 0px 0px 15px 15px;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -31,14 +31,14 @@ nav {
 }
 
 .about {
-  border-radius: 25px;
+  border-radius: 5px;
   display: flex;
   background-color: rgb(33, 206, 153);
   margin: 5%;
   margin-bottom: 0%;
 }
 .aboutText {
-  border-radius: 25px;
+  border-radius: 5px;
   background-color: rgb(255, 255, 255);
   margin: 2%;
   padding: 2%;
@@ -47,14 +47,14 @@ nav {
 }
 
 .profileImage {
-  border-radius: 25px;
+  border-radius: 5px;
   padding: 25px;
   margin: 5%;
   background-color: rgb(255, 255, 255);
 }
 
 .resume {
-  border-radius: 25px;
+  border-radius: 5px;
   padding: 25px;
   margin: 5%;
   background-color: rgb(255, 255, 255);
