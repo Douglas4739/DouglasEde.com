@@ -77,6 +77,10 @@ nav {
   margin: auto;
 }
 
+.contactf{
+  list-style-type: none;
+}
+
 @media all and (min-width: 800px) {
   .App {
 
