@@ -59,7 +59,7 @@ function About() {
             src="iconfinder_91_Discord_logo_logos_4373196.png"
             height="100"
             width="100"
-            alt="DIscord"
+            alt="Discord"
           />
         </a>
         <a href="https://github.com/Douglas4739">

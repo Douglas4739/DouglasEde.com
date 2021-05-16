@@ -73,15 +73,7 @@ nav {
   flex-direction: row;
 }
 
-.col1 {
-  margin: auto;
-}
-
-.col2 {
-  margin: auto;
-}
-
-.col3 {
+.col1, .col2, .col3 {
   margin: auto;
 }
 
