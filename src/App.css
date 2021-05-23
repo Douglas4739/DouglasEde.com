@@ -34,6 +34,7 @@ nav {
 .about {
   border-radius: 5px;
   display: flex;
+  flex-direction: row;
   background-color: rgb(33, 206, 153);
   margin: 5%;
   margin-bottom: 0%;
