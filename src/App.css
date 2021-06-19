@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: rgb(208, 209, 211);
+  background-color: rgb(51, 51, 51);
   background-image: "BW2.jpg";
 }
 
@@ -10,7 +10,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   min-height: 10vh;
-  background: rgb(33, 206, 153);
+  background: rgb(37, 37, 38);
   color: rgb(47, 49, 54);
 }
 
@@ -35,15 +35,18 @@ nav {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
-  background-color: rgb(33, 206, 153);
+  background-color: rgb(37, 37, 38);
   margin-top: 5%;
   margin-bottom: 0%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .aboutText {
   font-family: Arial, Helvetica, sans-serif;
   border-radius: 5px;
+  color: rgb(151, 151, 147);
  /* background-color: rgb(255, 255, 255);*/
-  margin: 5%;
+  margin: 2%;
   margin-bottom: 0;
   padding: 2%;
   border: rgb(47, 49, 54);
@@ -51,6 +54,7 @@ nav {
 }
 
 .profileImage {
+  color: rgb(151, 151, 147);
   border-radius: 5px;
   padding: 25px;
   margin: 3%;
@@ -59,6 +63,7 @@ nav {
 
 .resume {
   font-family: Arial, Helvetica, sans-serif;
+  color: rgb(151, 151, 147);
   border-radius: 5px;
   padding: 25px;
   margin: 3%;
@@ -84,6 +89,11 @@ nav {
 
 .contactf{
   list-style-type: none;
+}
+
+.hr {
+  border: 10px solid rgb(0, 193, 4);
+  border-radius: 5px;
 }
 
 @media all and (min-width: 800px) {
