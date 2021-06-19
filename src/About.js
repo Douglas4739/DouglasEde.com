@@ -5,7 +5,7 @@ function About() {
   return (
     <div className="about">
       <div className="profileImage">
-        <img src="mountainman.jpg" height="285" width="245" alt="Douglas Ede" />
+        <img src="douglasede.jpg" height="285" width="245" alt="Douglas Ede" />
         <h2>Investor/Software Engineer </h2>
         <section className="aboutText">
           Hi, welcome to my website. I am a veteran stock market investor that

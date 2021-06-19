@@ -28,15 +28,16 @@ nav {
 }
 
 .nav-logo {
+  color: rgb(151, 151, 147);
   padding: 10px;
 }
 
-.about, .home {
+.about, .home, .coaching, .programing {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
   background-color: rgb(37, 37, 38);
-  margin-top: 5%;
+  margin-top: 2%;
   margin-bottom: 0%;
   margin-left: 10%;
   margin-right: 10%;
