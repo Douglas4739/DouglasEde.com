@@ -19,7 +19,7 @@ function About() {
         </section>
       </div>
       <div>
-        <br />
+        <hr className="hr"/>
 
         <section className="resume">
           <h1>Resume</h1>

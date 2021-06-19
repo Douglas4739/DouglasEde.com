@@ -7,7 +7,7 @@ function Footer() {
       <div className="container">
         <div className="row">
           <div className="col1">
-            <h5>Contact</h5> 
+            <h5>Connect</h5> 
             <ul className='contactf'>
               <li>
                 {" "}
