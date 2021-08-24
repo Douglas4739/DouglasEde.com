@@ -32,7 +32,7 @@ nav {
 .nav-logo {
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(151, 151, 147);
-  padding: 10px;
+  padding: 0;
 }
 
 .about, .home, .coaching, .programing {
