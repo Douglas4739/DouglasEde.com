@@ -19,7 +19,7 @@ function About() {
         </section>
       </div>
       <div>
-        <hr/>
+        <hr />
 
         <section className="resume">
           <h1>Resume</h1>
@@ -32,11 +32,9 @@ function About() {
             />
           </a>
           <p>
-            Proficient in JavaScript, HTML, and CSS. I have 5 years of
-            experience as a salvage auto inspector, which gave me a keen eye for
-            attention to detail along with making me comfortable with long hours
-            and hard work. I also have a strong interest in Ecommerce, having
-            launched a small but successful business in the field.
+            I am a Software Engineer proficient in JavaScript, HTML, and CSS.
+            Certified in UX/UI Design and Development. I've built and
+            contributed to PERN* Full-stack Applications.
           </p>
         </section>
       </div>
