@@ -23,11 +23,14 @@ nav {
 }
 
 .nav-list {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150%;
   cursor: pointer;
   padding: 10px;
 }
 
 .nav-logo {
+  font-family: Arial, Helvetica, sans-serif;
   color: rgb(151, 151, 147);
   padding: 10px;
 }
