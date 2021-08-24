@@ -26,3 +26,5 @@ function Programing() {
 }
 
 export default Programing;
+
+//remember to finish adding alt tags
