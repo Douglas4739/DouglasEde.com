@@ -13,7 +13,7 @@ function About() {
           passion for education about investing and would like to work with
           anyone that wants to learn the world of securities trading. I use my
           free time to develop websites, study market charts, and read. If you
-          would like to know more about my professional expirience and technical
+          would like to know more about my professional experience, and technical
           skills, please take a look at my
           <a href="https://www.linkedin.com/in/douglasede-webdev"> LinkedIn.</a>
         </section>
