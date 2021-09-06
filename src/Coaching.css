@@ -14,3 +14,14 @@
       color:  rgb(151, 151, 147);
   }
   
+  .fundamentalimg {
+      max-width: 100%;
+      height: auto;
+      width: 15%;
+      height: 15%;
+      margin-bottom: auto;
+  }
+
+  .coachingList {
+      text-decoration: none;
+  }

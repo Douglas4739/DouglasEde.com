@@ -14,8 +14,9 @@ function Coaching() {
           gained for everyone in my 4 week coaching block. We'll start by
           getting a better idea of your goals for investing. How much do you
           plan to invest? How large can we grow your regular contributions?
-          What's a good ratio for your personal portfolio? What style of investing (Growth, Dividend, Value) most suits your needs? Then we'll dip our
-          toes into the world of fundamental analysis.{" "}
+          What's a good ratio for your personal portfolio? What style of
+          investing (Growth, Dividend, Value) most suits your needs? Then we'll
+          dip our toes into the world of fundamental analysis.{" "}
         </p>
         <h2>What you'll learn:</h2>
         <h3>General Investing</h3>
@@ -23,6 +24,23 @@ function Coaching() {
           <li>Dollar Cost Averaging</li>
           <li>Diversification</li>
           <li>ETF's (Exchange Traded Funds)</li>
+        </ul>
+        <img src="quantitative.png" alt="quantitative" class="fundamentalimg"/>
+        <h3>Quantitative Analysis</h3>
+        <ul className='coachingList'>
+          <li>Assets</li>
+          <li>Liabilities</li>
+          <li>Revenue</li>
+          <li>Earnings</li>
+          <li>Cashflow</li>
+          <li>PE Ratios</li>
+        </ul>
+        <h3>Qualitative Analysis</h3>
+        <ul className='coachingList'>
+          <li>Macro Psychology</li>
+          <li>Economic Moats</li>
+          <li>Stewardship</li>
+          <li>SWOT Table Analysis</li>
         </ul>
       </section>
     </div>
