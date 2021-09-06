@@ -20,14 +20,14 @@ function Coaching() {
         </p>
         <h2>What you'll learn:</h2>
         <h3>General Investing</h3>
-        <ul className="coachingList">
+        <ul className="coaching-list">
           <li>Dollar Cost Averaging</li>
           <li>Diversification</li>
           <li>ETF's (Exchange Traded Funds)</li>
         </ul>
         <img src="quantitative.png" alt="quantitative" class="fundamentalimg"/>
         <h3>Quantitative Analysis</h3>
-        <ul className='coachingList'>
+        <ul className='coaching-list'>
           <li>Assets</li>
           <li>Liabilities</li>
           <li>Revenue</li>
@@ -36,7 +36,7 @@ function Coaching() {
           <li>PE Ratios</li>
         </ul>
         <h3>Qualitative Analysis</h3>
-        <ul className='coachingList'>
+        <ul className='coaching-list'>
           <li>Macro Psychology</li>
           <li>Economic Moats</li>
           <li>Stewardship</li>
