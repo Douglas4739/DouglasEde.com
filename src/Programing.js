@@ -56,7 +56,8 @@ function Programing() {
       </div>
       <div className="Projects">
         <h1>My Projects:</h1>
-
+        <p>Click on a project image to take you to the live deployment.</p>
+        <h2>Quiz app</h2>
         <a href="https://douglas4739.github.io/Quiz-App/">
           <img src="codingquiz.jpg" alt="quiz" />
         </a>
@@ -64,6 +65,13 @@ function Programing() {
           A simple 5 question quiz app built with: jQuery, JavaScript, HTML and
           CSS
         </p>
+        <br />
+        <h2>Bookmark app</h2>
+        <a href="https://douglas4739.github.io/Bookmark-App/">
+          <img src="Bookmarks.jpg" alt="quiz" />
+        </a>
+        <p>CRUD functional app that allows users to save bookmarks to their favorite websites with ratings descriptions and filter results by rating.
+           Built with jQuery, JavaScript, HTML and CSS.</p>
       </div>
     </div>
   );
