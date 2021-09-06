@@ -34,7 +34,7 @@ function About() {
           <p>
             I am a Software Engineer proficient in JavaScript, HTML, and CSS.
             Certified in UX/UI Design and Development. I've built and
-            contributed to PERN* Full-stack Applications.
+            contributed to PERN Full-stack Applications.
           </p>
         </section>
       </div>
