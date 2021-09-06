@@ -19,6 +19,7 @@ function Coaching() {
           dip our toes into the world of fundamental analysis.{" "}
         </p>
         <h2>What you'll learn:</h2>
+        <img src="investing.png" alt="investing" class="fundamentalimg"/>
         <h3>General Investing</h3>
         <ul className="coaching-list">
           <li>Dollar Cost Averaging</li>
@@ -35,6 +36,7 @@ function Coaching() {
           <li>Cashflow</li>
           <li>PE Ratios</li>
         </ul>
+        <img src="qualitative.png" alt="qualitative" class="fundamentalimg"/>
         <h3>Qualitative Analysis</h3>
         <ul className='coaching-list'>
           <li>Macro Psychology</li>
