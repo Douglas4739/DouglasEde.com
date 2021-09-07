@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 function Nav() {
   return (
     <nav>
-      <img src="public\signature.svg"
+      <img src="signature.svg"
       height="300" 
       width="300" 
       alt="Signature" />
