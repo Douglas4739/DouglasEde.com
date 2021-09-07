@@ -1,3 +1,8 @@
 .programing{
     color: #979793;
 }
+
+.project-img {
+    max-width: 100%;
+    height: auto;
+}

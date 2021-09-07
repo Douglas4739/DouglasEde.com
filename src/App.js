@@ -6,6 +6,7 @@ import Nav from "./Nav";
 import About from "./About";
 import Coaching from "./Coaching";
 import Programing from "./Programing";
+import Contact from "./Contact";
 import Footer from "./Footer";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
