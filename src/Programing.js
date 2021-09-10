@@ -1,6 +1,9 @@
 import React from "react";
 import "./App.css";
 import "./Programing.css";
+import appsuite from './images/appsuite.jpg';
+import codingQuiz from './images/codingquiz.jpg';
+import bookmarks from './images/Bookmarks.jpg';
 
 function Programing() {
   return (
@@ -59,7 +62,7 @@ function Programing() {
         <p>Click on a project image to take you to the live deployment.</p>
         <h2>Production/Calculator App</h2>
         <a href="https://democlient.vercel.app/AppSelect">
-          <img src="appsuite.jpg" alt="app suite" className='project-img' />
+          <img src={appsuite} alt="app suite" className='project-img' />
         </a>
         <p>
           This project is a suite of applications for Concretti, an artisanal
@@ -89,7 +92,7 @@ function Programing() {
         <br />
         <h2>Quiz app</h2>
         <a href="https://douglas4739.github.io/Quiz-App/">
-          <img src="codingquiz.jpg" alt="quiz" className='project-img' />
+          <img src={codingQuiz} alt="quiz" className='project-img' />
         </a>
         <p>
           A simple 5 question quiz app built with: jQuery, JavaScript, HTML and
@@ -98,7 +101,7 @@ function Programing() {
         <br />
         <h2>Bookmark app</h2>
         <a href="https://douglas4739.github.io/Bookmark-App/">
-          <img src="Bookmarks.jpg" alt="bookmarks" className='project-img' />
+          <img src={bookmarks} alt="bookmarks" className='project-img' />
         </a>
         <p>
           CRUD functional app that allows users to save bookmarks to their

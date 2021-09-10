@@ -1,3 +1,8 @@
 .home{
     background-color: rgb (30, 33, 36);
 }
+
+.hr {
+    border: 10px solid rgb(0, 193, 4);
+    border-radius: 5px;
+  }
