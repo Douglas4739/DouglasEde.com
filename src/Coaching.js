@@ -2,6 +2,7 @@ import React from "react";
 import Carousel from "./Components/Carousel";
 import "./App.css";
 import "./Coaching.css";
+import Contact from "./Contact";
 
 function Coaching() {
   return (
@@ -58,6 +59,7 @@ function Coaching() {
         </div>
       </section>
       <br />
+      <Contact />
     </div>
   );
 }
