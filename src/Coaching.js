@@ -21,7 +21,7 @@ function Coaching() {
         </p>
         <h2>What you'll learn:</h2>
         <div className='learning'>
-        <img src="investing.png" alt="investing" class="fundamentalimg"/>
+        <img src="images/investing.png" alt="investing" class="fundamentalimg"/>
         <div>
         <h3>General Investing</h3>
         <ul className="coaching-list">
