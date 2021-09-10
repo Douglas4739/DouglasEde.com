@@ -3,6 +3,9 @@ import Carousel from "./Components/Carousel";
 import "./App.css";
 import "./Coaching.css";
 import Contact from "./Contact";
+import investing from './images/investing.png';
+import quantitative from './images/quantitative.png';
+import qualitative from './images/qualitative.png';
 
 function Coaching() {
   return (
@@ -21,7 +24,7 @@ function Coaching() {
         </p>
         <h2>What you'll learn:</h2>
         <div className='learning'>
-        <img src="images/investing.png" alt="investing" class="fundamentalimg"/>
+        <img src={investing} alt="investing" class="fundamentalimg"/>
         <div>
         <h3>General Investing</h3>
         <ul className="coaching-list">
@@ -32,7 +35,7 @@ function Coaching() {
         </div>
         </div>
         <div className='learning'>
-        <img src="quantitative.png" alt="quantitative" class="fundamentalimg"/>
+        <img src={quantitative} alt="quantitative" class="fundamentalimg"/>
         <div>
         <h3>Quantitative Analysis</h3>
         <ul className='coaching-list'>
@@ -46,7 +49,7 @@ function Coaching() {
         </div>
         </div>
         <div className='learning'>
-        <img src="qualitative.png" alt="qualitative" class="fundamentalimg"/>
+        <img src={qualitative} alt="qualitative" class="fundamentalimg"/>
         <div>
         <h3>Qualitative Analysis</h3>
         <ul className='coaching-list'>
@@ -58,7 +61,7 @@ function Coaching() {
         </div>
         </div>
       </section>
-      <br />
+      <hr />
       <Contact />
     </div>
   );

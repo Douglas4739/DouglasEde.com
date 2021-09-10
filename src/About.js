@@ -1,11 +1,13 @@
 import React from "react";
 import "./App.css";
+import doug from './images/douglasede.jpg';
+import resume from './images/iconfinder_portfolio-business_and_finance-personal_profile-resume-interface_4288584.png';
 
 function About() {
   return (
     <div className="about">
       <div className="profileImage">
-        <img src="douglasede.jpg" height="285" width="245" alt="Douglas Ede" />
+        <img src={doug} height="285" width="245" alt="Douglas Ede" />
         <h2>Investor/Software Engineer </h2>
         <section className="aboutText">
           Hi, welcome to my website. I am a veteran stock market investor that
@@ -25,7 +27,7 @@ function About() {
           <h1>Resume</h1>
           <a href="https://docs.google.com/document/d/1mahwZMrSbL89ux1Ix986jgIE4pIl_imuUB1sXCt4i2I/edit?usp=sharing">
             <img
-              src="iconfinder_portfolio-business_and_finance-personal_profile-resume-interface_4288584.png"
+              src={resume}
               height="200"
               width="200"
               alt="Resume"
