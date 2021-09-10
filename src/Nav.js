@@ -2,11 +2,12 @@ import React from "react";
 import "./App.css";
 import "./Nav.css";
 import { Link } from "react-router-dom";
+import signature from './images/signature.svg';
 
 function Nav() {
   return (
     <nav>
-      <img src="signature.svg"
+      <img src={signature}
       height="300" 
       width="300" 
       alt="Signature" />
