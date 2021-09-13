@@ -80,9 +80,14 @@
 
 @media screen and (max-width: 768px) {
   .aboutText {
-    font-size: 28px;
+    font-size: 18px;
   }
   p {
-    font-size: 28px;
+    font-size: 18px;
+  }
+
+  .about, .home, .coaching, .programing {
+    margin-left: 0;
+    margin-right: 0;
   }
 }

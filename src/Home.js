@@ -11,7 +11,6 @@ function Home() {
             <About />
         <Programing />
         <Coaching />
-        <Contact />
     </div>;
 }
 
