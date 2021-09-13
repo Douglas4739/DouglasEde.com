@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DouglasEde.com/static/css/main.b4433114.chunk.css",
-    "main.js": "/DouglasEde.com/static/js/main.444d4020.chunk.js",
-    "main.js.map": "/DouglasEde.com/static/js/main.444d4020.chunk.js.map",
+    "main.css": "/DouglasEde.com/static/css/main.06dc3c2d.chunk.css",
+    "main.js": "/DouglasEde.com/static/js/main.e527a28f.chunk.js",
+    "main.js.map": "/DouglasEde.com/static/js/main.e527a28f.chunk.js.map",
     "runtime-main.js": "/DouglasEde.com/static/js/runtime-main.098accdc.js",
     "runtime-main.js.map": "/DouglasEde.com/static/js/runtime-main.098accdc.js.map",
     "static/js/2.a27d1515.chunk.js": "/DouglasEde.com/static/js/2.a27d1515.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5ec44d97.chunk.js": "/DouglasEde.com/static/js/3.5ec44d97.chunk.js",
     "static/js/3.5ec44d97.chunk.js.map": "/DouglasEde.com/static/js/3.5ec44d97.chunk.js.map",
     "index.html": "/DouglasEde.com/index.html",
-    "static/css/main.b4433114.chunk.css.map": "/DouglasEde.com/static/css/main.b4433114.chunk.css.map",
+    "static/css/main.06dc3c2d.chunk.css.map": "/DouglasEde.com/static/css/main.06dc3c2d.chunk.css.map",
     "static/js/2.a27d1515.chunk.js.LICENSE.txt": "/DouglasEde.com/static/js/2.a27d1515.chunk.js.LICENSE.txt",
     "static/media/Bookmarks.09bfdd45.jpg": "/DouglasEde.com/static/media/Bookmarks.09bfdd45.jpg",
     "static/media/appsuite.6a19dca2.jpg": "/DouglasEde.com/static/media/appsuite.6a19dca2.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.098accdc.js",
     "static/js/2.a27d1515.chunk.js",
-    "static/css/main.b4433114.chunk.css",
-    "static/js/main.444d4020.chunk.js"
+    "static/css/main.06dc3c2d.chunk.css",
+    "static/js/main.e527a28f.chunk.js"
   ]
 }
