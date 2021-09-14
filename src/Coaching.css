@@ -35,3 +35,13 @@
       flex-direction: row;
       justify-content: center;
   }
+
+  @media screen and (max-width: 768px) {
+    .fundamentalimg {
+        max-width: 100%;
+        height: auto;
+        width: 45%;
+        height: 45%;
+        margin-bottom: auto;
+    }
+  }
