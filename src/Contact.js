@@ -7,11 +7,11 @@ function Contact() {
   return <div className='contact'>
 
 <div class="container">
-  <div class="row header">
+  <div className="row-header">
     <h1>CONTACT ME &nbsp;</h1>
     <h3>Fill out the form below to learn more!</h3>
   </div>
-  <div class="row body">
+  <div className="row body">
     <form action="#">
       <ul className='form'>
         
