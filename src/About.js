@@ -4,6 +4,7 @@ import doug from './images/douglasede.jpg';
 import resume from './images/iconfinder_portfolio-business_and_finance-personal_profile-resume-interface_4288584.png';
 
 function About() {
+  console.log('something');
   return (
     <div className="about">
       <div className="profileImage">
