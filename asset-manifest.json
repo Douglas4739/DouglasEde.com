@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DouglasEde.com/static/css/main.b36c1079.chunk.css",
-    "main.js": "/DouglasEde.com/static/js/main.171e43a2.chunk.js",
-    "main.js.map": "/DouglasEde.com/static/js/main.171e43a2.chunk.js.map",
+    "main.js": "/DouglasEde.com/static/js/main.213139a0.chunk.js",
+    "main.js.map": "/DouglasEde.com/static/js/main.213139a0.chunk.js.map",
     "runtime-main.js": "/DouglasEde.com/static/js/runtime-main.098accdc.js",
     "runtime-main.js.map": "/DouglasEde.com/static/js/runtime-main.098accdc.js.map",
-    "static/js/2.a27d1515.chunk.js": "/DouglasEde.com/static/js/2.a27d1515.chunk.js",
-    "static/js/2.a27d1515.chunk.js.map": "/DouglasEde.com/static/js/2.a27d1515.chunk.js.map",
+    "static/js/2.3591aa9e.chunk.js": "/DouglasEde.com/static/js/2.3591aa9e.chunk.js",
+    "static/js/2.3591aa9e.chunk.js.map": "/DouglasEde.com/static/js/2.3591aa9e.chunk.js.map",
     "static/js/3.5ec44d97.chunk.js": "/DouglasEde.com/static/js/3.5ec44d97.chunk.js",
     "static/js/3.5ec44d97.chunk.js.map": "/DouglasEde.com/static/js/3.5ec44d97.chunk.js.map",
     "index.html": "/DouglasEde.com/index.html",
     "static/css/main.b36c1079.chunk.css.map": "/DouglasEde.com/static/css/main.b36c1079.chunk.css.map",
-    "static/js/2.a27d1515.chunk.js.LICENSE.txt": "/DouglasEde.com/static/js/2.a27d1515.chunk.js.LICENSE.txt",
+    "static/js/2.3591aa9e.chunk.js.LICENSE.txt": "/DouglasEde.com/static/js/2.3591aa9e.chunk.js.LICENSE.txt",
     "static/media/Bookmarks.09bfdd45.jpg": "/DouglasEde.com/static/media/Bookmarks.09bfdd45.jpg",
     "static/media/appsuite.6a19dca2.jpg": "/DouglasEde.com/static/media/appsuite.6a19dca2.jpg",
     "static/media/codingquiz.ddaa0049.jpg": "/DouglasEde.com/static/media/codingquiz.ddaa0049.jpg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.098accdc.js",
-    "static/js/2.a27d1515.chunk.js",
+    "static/js/2.3591aa9e.chunk.js",
     "static/css/main.b36c1079.chunk.css",
-    "static/js/main.171e43a2.chunk.js"
+    "static/js/main.213139a0.chunk.js"
   ]
 }
