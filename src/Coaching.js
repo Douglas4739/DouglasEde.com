@@ -60,7 +60,6 @@ function Coaching() {
         </div>
         </div>
       </section>
-      <hr />
       <Contact />
     </div>
   );
