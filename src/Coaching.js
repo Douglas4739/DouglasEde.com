@@ -1,5 +1,4 @@
 import React from "react";
-import Carousel from "./Components/Carousel";
 import "./App.css";
 import "./Coaching.css";
 import Contact from "./Contact";
