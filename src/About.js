@@ -21,8 +21,6 @@ function About() {
         </section>
       </div>
       <div>
-        <hr />
-
         <section className="resume">
           <h1>Resume</h1>
           <a href="https://docs.google.com/document/d/1mahwZMrSbL89ux1Ix986jgIE4pIl_imuUB1sXCt4i2I/edit?usp=sharing">
