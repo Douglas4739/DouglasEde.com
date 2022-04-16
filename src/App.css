@@ -18,7 +18,6 @@
   font-family: Arial, Helvetica, sans-serif;
   border-radius: 5px;
   color: rgb(151, 151, 147);
- /* background-color: rgb(255, 255, 255);*/
   margin: 2%;
   margin-bottom: 0;
   padding: 2%;
@@ -41,6 +40,19 @@
   padding: 25px;
   margin: 3%;
   /*background-color: rgb(255, 255, 255);*/
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color : rgb(125, 123, 89)
+}
+
+a:hover {
+  color : rgb(145, 143, 100)
+}
+
+a:active {
+  color : rgb(170, 167, 122)
 }
 
 .footer {

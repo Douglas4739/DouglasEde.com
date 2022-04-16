@@ -1,14 +1,17 @@
 import React from "react";
 import "./App.css";
-import doug from './images/douglasede.jpg';
+import doug from './images/douglasede1.jpg';
 import resume from './images/iconfinder_portfolio-business_and_finance-personal_profile-resume-interface_4288584.png';
 
 function About() {
   return (
     <div className="about">
       <div className="profileImage">
-        <img src={doug} height="285" width="245" alt="Douglas Ede" />
-        <h2>Investor/Software Engineer </h2>
+        <img src={doug} height="300" width="245" alt="Douglas Ede" />
+        <h2>Douglas Ede</h2>
+        <h3>Investor</h3>
+        <h3>Software Engineer</h3>
+        <h3>Operations Manager</h3>
         <section className="aboutText">
           Hi, welcome to my website. I am a veteran stock market investor that
           has branched out into the world of software engineering. I have a real
@@ -17,7 +20,7 @@ function About() {
           free time to develop websites, study market charts, and read. If you
           would like to know more about my professional experience, and technical
           skills, please take a look at my
-          <a href="https://www.linkedin.com/in/douglasede-webdev"> LinkedIn.</a>
+          <a href="https://www.linkedin.com/in/douglasede-webdev" className="linkedin"> LinkedIn.</a>
         </section>
       </div>
       <div>
