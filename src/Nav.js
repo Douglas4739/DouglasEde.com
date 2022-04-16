@@ -11,7 +11,7 @@ function Nav() {
       height="300" 
       width="300" 
       alt="Signature" />
-      <ul className="nav-links">
+      {/* <ul className="nav-links">
         <Link to="/About">
           <li className="nav-list">Douglas Ede</li>
         </Link>
@@ -24,7 +24,7 @@ function Nav() {
         <Link to="/Home">
           <li className="nav-list">Home</li>
         </Link>
-      </ul>
+      </ul> */}
     </nav>
   );
 }
