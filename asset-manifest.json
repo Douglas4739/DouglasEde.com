@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DouglasEde.com/static/css/main.b049d7d8.chunk.css",
-    "main.js": "/DouglasEde.com/static/js/main.099b8920.chunk.js",
-    "main.js.map": "/DouglasEde.com/static/js/main.099b8920.chunk.js.map",
+    "main.css": "/DouglasEde.com/static/css/main.89ae2f4c.chunk.css",
+    "main.js": "/DouglasEde.com/static/js/main.3c834545.chunk.js",
+    "main.js.map": "/DouglasEde.com/static/js/main.3c834545.chunk.js.map",
     "runtime-main.js": "/DouglasEde.com/static/js/runtime-main.7900981f.js",
     "runtime-main.js.map": "/DouglasEde.com/static/js/runtime-main.7900981f.js.map",
     "static/js/2.d124be3f.chunk.js": "/DouglasEde.com/static/js/2.d124be3f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.6dbb2929.chunk.js": "/DouglasEde.com/static/js/3.6dbb2929.chunk.js",
     "static/js/3.6dbb2929.chunk.js.map": "/DouglasEde.com/static/js/3.6dbb2929.chunk.js.map",
     "index.html": "/DouglasEde.com/index.html",
-    "static/css/main.b049d7d8.chunk.css.map": "/DouglasEde.com/static/css/main.b049d7d8.chunk.css.map",
+    "static/css/main.89ae2f4c.chunk.css.map": "/DouglasEde.com/static/css/main.89ae2f4c.chunk.css.map",
     "static/js/2.d124be3f.chunk.js.LICENSE.txt": "/DouglasEde.com/static/js/2.d124be3f.chunk.js.LICENSE.txt",
     "static/media/Bookmarks.09bfdd45.jpg": "/DouglasEde.com/static/media/Bookmarks.09bfdd45.jpg",
     "static/media/appsuite.6a19dca2.jpg": "/DouglasEde.com/static/media/appsuite.6a19dca2.jpg",
@@ -19,12 +19,12 @@
     "static/media/iconfinder_1_Instagram_colored_svg_1_5296765 (1).1ec4f90d.png": "/DouglasEde.com/static/media/iconfinder_1_Instagram_colored_svg_1_5296765 (1).1ec4f90d.png",
     "static/media/qualitative.78e2f167.png": "/DouglasEde.com/static/media/qualitative.78e2f167.png",
     "static/media/quantitative.38fcd299.png": "/DouglasEde.com/static/media/quantitative.38fcd299.png",
-    "static/media/signature.6c38b51f.svg": "/DouglasEde.com/static/media/signature.6c38b51f.svg"
+    "static/media/signature.577d84bf.svg": "/DouglasEde.com/static/media/signature.577d84bf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7900981f.js",
     "static/js/2.d124be3f.chunk.js",
-    "static/css/main.b049d7d8.chunk.css",
-    "static/js/main.099b8920.chunk.js"
+    "static/css/main.89ae2f4c.chunk.css",
+    "static/js/main.3c834545.chunk.js"
   ]
 }
